@@ -11,6 +11,7 @@ First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
+Another Content Cell  | Another Content Cell
 
 Here's an example of an image, which is included using Markdown:
 
