@@ -6,3 +6,5 @@ feature-img: "img/sample_feature_img_2.png"
 ---
 
 About
+
+I'll add some info in here soon.
