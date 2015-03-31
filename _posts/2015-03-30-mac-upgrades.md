@@ -23,3 +23,8 @@ Now to the 8GB of RAM. Luckily, <a href="http://blog.macsales.com/9102-secret-fi
 I'm also waiting for a new fan replacement. That should arrive soon.
 
 Among the noticeable changes after the upgrades are that my machine starts and shuts down with lightning speed. Apps open with ease, and there is absolutely no lag in any of my developement workflow. The RAM upgrade is icing on the cake.
+
+Further Resources:
+
+* <a href="https://www.ifixit.com/Device/MacBook_Unibody_Model_A1278">MacBook Unibody Model A1278 Repair</a>
+* <a href="https://discussions.apple.com/docs/DOC-6101">Make a bootable clone of your boot drive</a>
