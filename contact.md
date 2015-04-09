@@ -7,4 +7,4 @@ feature-img: "img/zackmorrisphone.png"
 
 Contact
 
-Hey, my contact info is all over this place. Check the header and let's chat.
+Please contact me via <a href="mailto:hi@martinezgabriel.com">email</a>, or look me up on <a href="http://twitter.com/gabrielmartinez">twitter</a>.
