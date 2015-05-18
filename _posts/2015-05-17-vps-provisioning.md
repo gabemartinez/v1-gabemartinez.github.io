@@ -13,4 +13,6 @@ But, after reading a few things about <a href="https://www.chef.io/chef/">Chef</
 
 Going the <a href="https://www.heroku.com/home">Heroku</a> route might end up costing me a lot in the long run. For now, I will keep some testing and development apps on there still. 
 
+Of all the online deployment learning materials, one that I would like to praise is <a href="https://leanpub.com/deploying_rails_applications">Reliably Deploying Rails Applications</a>. So far, so good. Go check it out.
+
 I'll be back with more details soon.
