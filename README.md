@@ -2,7 +2,7 @@
 
 This repo contains files for my personal website which you can visit at [martinezgabriel.com](http://martinezgabriel.com) and is proudly hosted here at [GitHub](https://pages.github.com/).
 
-The website was developed using [Jekyll](http://jekyllrb.com), and the [Using Type](https://rohanchandra.github.io/project/type/) theme.
+The website was developed using [Jekyll](http://jekyllrb.com), and styled with the [Type Theme](https://rohanchandra.github.io/project/type/).
 
 [Jekyll](http://jekyllrb.com) is great for static websites and blogs.
 
