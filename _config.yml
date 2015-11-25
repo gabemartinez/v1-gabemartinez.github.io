@@ -15,7 +15,7 @@ theme:
      <p>Hi. Welcome to my personal space on the web.</p>
 
   footer_text: >
-   Produced with help from <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> and hosted on <a href="https://github.com/gabemartinez/gabemartinez.github.io">Github Pages</a>.
+   Created with <a href="http://jekyllrb.com">Jekyll</a>, styled with the <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> and hosted on <a href="https://github.com/gabemartinez/gabemartinez.github.io">Github Pages</a>.
 
   # Icons
   rss: false
