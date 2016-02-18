@@ -3,7 +3,7 @@ layout: post
 title: An Important List of Drupal Modules
 ---
 
-When beginning a Drupal project, one of the first things you might do is create a list of specifications and possibly functionality that your application needs. A lot of the time those specs can determine which modules you can leverage and use; furthermore, these modules can be adapted to fit your needs if they do not already fulfill them completely.
+When beginning a Drupal project, one of the first things you might do is create a list of specifications and possibly functionality that your application needs. Those specs can determine which modules you can leverage and use; furthermore, these modules can be adapted to fit your needs if they do not already fulfill them completely.
 
 The list of important Drupal modules that I seem to use often:
 
