@@ -22,6 +22,6 @@ The list of important Drupal modules that I seem to use often:
 * [Field Collection](https://www.drupal.org/project/field_collection)
 * [Feeds](https://www.drupal.org/project/feeds)
 
-
+I will maintain this post as more modules work their way into my toolbox, as there are a few that I left out. Thanks for reading.
 
 
