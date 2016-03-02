@@ -17,11 +17,11 @@ As soon as you get a grasp on using the library you will want to develop visual 
 
 Without any fuss, here is a list of good D3.js beginner tutorials and helpful links to get you started:
 
-* http://alignedleft.com/tutorials/d3/
-* https://square.github.io/intro-to-d3/
-* https://www.dashingd3js.com/
-* https://github.com/mbostock/d3/wiki/Tutorials
-* http://codepen.io/collection/dviEy/
-* http://www.d3noob.org/
+* [http://alignedleft.com/tutorials/d3/](http://alignedleft.com/tutorials/d3/)
+* [https://square.github.io/intro-to-d3/](https://square.github.io/intro-to-d3/)
+* [https://www.dashingd3js.com/](https://www.dashingd3js.com/)
+* [https://github.com/mbostock/d3/wiki/Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
+* [http://codepen.io/collection/dviEy/](http://codepen.io/collection/dviEy/)
+* [http://www.d3noob.org/](http://www.d3noob.org/)
 
 I will maintain this list as I find more resources.
