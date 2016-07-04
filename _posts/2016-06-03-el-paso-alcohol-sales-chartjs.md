@@ -13,7 +13,7 @@ You can view the project [here](http://www.txalcsales.martinezgabriel.com/) and 
 
 Some of the options that I might add in are search by bar name, by entertainment district, and some other things that I have written down. The app looks best on a desktop and larger sized model iPads, and later I could make it easier to use on an iPhone/smaller width mobile device.
 
-Summary of the application build process: I used [npm](https://www.npmjs.com/) (which comes with node) to pull in module resources. During the development phase, I used [browserify](http://browserify.org/) to package my JavaScript. The Texas Comptroller provides data as csv, but I used [csvtojson](https://www.npmjs.com/package/csvtojson) to convert their data to json. I also used [jQuery](https://jquery.com/) and [Bootstrap](http://getbootstrap.com/).
+Summary of the application build process: I used [npm](https://www.npmjs.com/) (which comes with [Node.js](https://nodejs.org/en/)) to pull in module resources. During the development phase, I used [browserify](http://browserify.org/) to package my JavaScript. The Texas Comptroller provides data as csv, but I used [csvtojson](https://www.npmjs.com/package/csvtojson) to convert their data to json. I also used [jQuery](https://jquery.com/) and [Bootstrap](http://getbootstrap.com/).
 
 * [El Paso County Mixed Beverage Tax Receipts](http://www.txalcsales.martinezgabriel.com/)
 * [GitHub Project Repo](https://github.com/gabemartinez/txalcsales-chartjs)
