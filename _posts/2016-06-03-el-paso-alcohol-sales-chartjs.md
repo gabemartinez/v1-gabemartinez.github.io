@@ -7,6 +7,8 @@ I've been wanting to use the [Texas alcohol sales tax data](http://www.texastran
 
 I then found [Chart.js](http://www.chartjs.org/); this library is small, powerful, and it's fun to use.
 
+See the app [here](http://www.txalcsales.martinezgabriel.com/).
+
 It was very easy to get started. I got the data, and then started adapting it to work with Chart.js in my single-page application.
 
 You can view the project [here](http://www.txalcsales.martinezgabriel.com/) and start querying which bars/restaurants are doing the best in El Paso. I might add more options later, but for now you can view data based on zip code, sales greater than amount, and search the last seven months of data that the Texas Comptroller has made available.
