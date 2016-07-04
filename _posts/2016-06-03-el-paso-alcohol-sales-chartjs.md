@@ -16,4 +16,6 @@ Some of the options that I might add in are search by bar name, by entertainment
 * [El Paso County Mixed Beverage Tax Receipts](http://www.txalcsales.martinezgabriel.com/)
 * [GitHub Project Repo](https://github.com/gabemartinez/txalcsales-chartjs)
 
-![El Paso Alcohol Sales App Screenshot](../img/txalcsales-screenshot.png)
+See app screenshot below.
+
+![El Paso Alcohol Sales App Screenshot](/img/txalcsales-screenshot.png)
