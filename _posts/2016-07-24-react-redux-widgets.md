@@ -21,7 +21,7 @@ After you get your feet wet with React components via the [Facebook documentatio
 
 Back to our widgets. You can preview the trivia widget that I built [here on CodePen](http://s.codepen.io/gabemartinez/debug/YWLPQv).
 
-The widget consists of different components, both dumb and smart components, that work with each other to modify the app's immutable state while users interact with and dispatch actions to.
+The widget consists of different components, both dumb and smart components, that work with each other to modify the app's immutable state while users interact with and dispatch actions to in order to see changes.
 
 As you might have noticed, this trivia widget has to do with [ASU golf](http://asukarsten.com/).
 
