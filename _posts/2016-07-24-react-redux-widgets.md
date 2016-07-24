@@ -7,7 +7,7 @@ Recently we were tasked with developing widgets that could be embedded into an [
 
 A widget can be anything from a chart that changes based on input, a quiz, or anything that can be created based on the news story.
 
-After our team of developers finished an initial brainstorming session, one of the things that stood out was that we wanted to use [React](https://facebook.github.io/react/) for these widgets. React is a JavaScipt library that Facebook developed for creating user interfaces. It is currently at peak popularity level among web and software nerds that are learning to use it. React is the V in the Model–view–controller (MVC) software architectural pattern. If Facebook uses is, it must be awesome, right?
+After our team of developers finished an initial brainstorming session, one of the things that stood out was that we wanted to use [React](https://facebook.github.io/react/) for these widgets. React is a JavaScipt library that Facebook developed for creating user interfaces. It is currently at peak popularity level among web and software nerds that are learning to use it. React is the V in the model–view–controller (MVC) software architectural pattern. If Facebook uses is, it must be awesome, right?
 
 It took me about two weeks of using the React library and watching and reading many tutorials to grasp the fundamentals behind it.
 
