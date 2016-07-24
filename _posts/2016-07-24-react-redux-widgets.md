@@ -31,4 +31,4 @@ Other than using React and Redux, I also utilized [Bootstrap](http://getbootstra
 
 We will be reusing these widgets for other stories, in this trivia example we might just add extra functionality and change the questions object data being used by the app.
 
-A widget that is already live is the chart widget, which you can see on [this news story](https://asunow.asu.edu/20160720-exemplifying-entrepreneurial-spirit-sun-devil-owned-businesses). The chart widget displays industries that ASU communication majors go into after graduation. My colleague Sebastian Nievas developed that bad boy. And the original content is also from our office.
+A widget that is already live is the chart widget, which you can see in [this news story](https://asunow.asu.edu/20160720-exemplifying-entrepreneurial-spirit-sun-devil-owned-businesses). The chart widget displays industries that ASU communication majors go into after graduation. My colleague Sebastian Nievas developed that bad boy. And the original content is also from our office.
