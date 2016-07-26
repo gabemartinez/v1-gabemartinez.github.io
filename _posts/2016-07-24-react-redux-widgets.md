@@ -25,7 +25,7 @@ The widget consists of different components, both dumb and smart components, tha
 
 As you might have noticed, this trivia widget has to do with [ASU golf](http://asukarsten.com/).
 
-![Trivia Screenshot](http://i.imgur.com/2yQmV4m.png)
+![Trivia Screenshot](http://i.imgur.com/4fv16kT.png)
 
 Other than using React and Redux, I also utilized [Bootstrap](http://getbootstrap.com/) to make sure that this widget would adapt well on mobile devices, which made life easier. I also used the [Animate.css](https://daneden.github.io/animate.css/) css library for UX purposes as widgets re-render based on state change.
 
