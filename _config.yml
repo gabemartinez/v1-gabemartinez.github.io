@@ -69,4 +69,4 @@ sass:
 # Gems
 gems: [jekyll-paginate]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
